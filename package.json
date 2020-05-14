@@ -1,0 +1,26 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "prueba para itm",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mescamillas/examen.git"
+  },
+  "author": "marcelo escamilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mescamillas/examen/issues"
+  },
+  "homepage": "https://github.com/mescamillas/examen#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.14",
+    "nodemon": "^2.0.4",
+    "xlsx": "^0.16.0"
+  }
+}
